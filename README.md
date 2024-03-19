@@ -16,4 +16,3 @@ In un altro terminale eseguire il seguente comando per eseguire 'composer update
 
 Questo scaricherà le dipendenze dentro la cartella 'vendor', già aggiunta al `.gitignore`
 
-# es10
